@@ -571,14 +571,12 @@ section#event h3{
   background-color: #25758e;
   color: rgb(231,211,86);
   text-align: center;
-  line-height: 40px;
+  line-height: 30px;
   margin-top:0;
 }
 
 
 section#event .col-sm-3 ,.col-sm-4, .col-sm-6, .col-sm-12 {
-  background-size: contain;
-  background-color:rgb(231,211,86);
   margin: 0;
   padding: 0 10px;
 }
