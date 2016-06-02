@@ -569,9 +569,9 @@ section#event {
 
 section#event h3{
   background-color: #25758e;
-  color: white;
+  color: rgb(231,211,86);
   text-align: center;
-  line-height: 70px;
+  line-height: 40px;
 }
 
 
