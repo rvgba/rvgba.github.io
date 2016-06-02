@@ -577,6 +577,7 @@ section#event h3{
 
 
 section#event .col-sm-3 ,.col-sm-4, .col-sm-6, .col-sm-12 {
+  background-size: contain;
   background-color:rgb(231,211,86);
   margin: 0;
   padding: 0 10px;
