@@ -567,6 +567,14 @@ section#event {
   background-repeat: repeat;
 }
 
+section#event h3{
+  background-color: #25758e;
+  color: white;
+  text-align: center;
+  line-height: 70px;
+}
+
+
 section#event .col-sm-3 ,.col-sm-4, .col-sm-6, .col-sm-12 {
   background-color:none;
   margin: 0px;
