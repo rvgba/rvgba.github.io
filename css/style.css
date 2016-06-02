@@ -572,13 +572,14 @@ section#event h3{
   color: rgb(231,211,86);
   text-align: center;
   line-height: 40px;
+  margin-top:0;
 }
 
 
 section#event .col-sm-3 ,.col-sm-4, .col-sm-6, .col-sm-12 {
-  background-color:none;
-  margin: 0px;
-  padding: 0 10px;
+  background-color:rgb(231,211,86);
+  margin: 0;
+  padding: 0;
 }
 
 section#event .row {
