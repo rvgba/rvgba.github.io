@@ -582,6 +582,16 @@ section#event h3{
   margin-top:0;
 }
 
+section#event p, h5{
+  color: #25758e;
+  font-size: 18px;
+  text-align: center;
+  margin-top:0;
+}
+
+
+
+
 section#about h3{
   background-color: #25758e;
   color: white;
