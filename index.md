@@ -1,7 +1,8 @@
-## Welcome to my page
 ---
 layout: default
 ---
+
+## Welcome to my page
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
