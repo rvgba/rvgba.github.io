@@ -8,8 +8,9 @@ layout: default
 
   <div>
 
-
-Bachelor of Economics (first-class honor) graduated in 2014 from University of Indonesia with 8 years of experience as digital technology PMO in a financial & on-demand service industry, seeking ways to bring social impact to MSME(s) in Indonesia through digital and technology inclusion. I also have passion in art & design and did paid works in editorial designs during my years in university. I specialize in creating user-friendly visual and meaningful visual experiences.
+My name is Ravi. I'm an  graduate of 2014 from University of Indonesia with degree in Economics (Public Sector & International Trade). I have 8 years of experience working as digital technology Project Management Officer in fintech & on-demand service industry player in Indonesia, seeking ways to bring social impact to MSME(s) in Indonesia through digital and technology inclusion.
+< br/>
+I also have passion in art & design and did paid works in editorial designs during my years in university. I specialize in creating user-friendly visual and meaningful visual experiences.
 
   </div>
 
@@ -17,7 +18,7 @@ Bachelor of Economics (first-class honor) graduated in 2014 from University of I
 
 [LinkedIn](https://www.linkedin.com/in/ravigaribaldi/) | [Resume](assets/resume.pdf)
 
-</br>
+<br />
 
 ---
 
@@ -31,7 +32,7 @@ Bachelor of Economics (first-class honor) graduated in 2014 from University of I
 | Programming | SQL, HTML, CSS, STATA, eViews                                                                |
 | Languages | Indonesian (`Native`), English (`Fluent, TOEFL iBT: 102`)                                      |
 
-</br>
+<br />
 
 ---
 
