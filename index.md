@@ -34,3 +34,6 @@ Bachelor of Economics (first-class honor) graduated in 2014 from University of I
 **I'm currently open to:**  Collaboration opportunities in visual design and editorial projects. Let's create something amazing together!  
 
 📫 **Contact:** [ravi.garibaldi@gmail.com](mailto:ravi.garibaldi@gmail.com)
+
+---
+
