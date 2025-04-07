@@ -31,6 +31,18 @@ Bachelor of Economics (first-class honor) graduated in 2014 from University of I
 | Languages | Indonesian `Native`, English `Fluent, TOEFL iBT: 102`    |
 
 
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+
+
+
+
 ---
 
 ## Get in Touch  
