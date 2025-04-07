@@ -15,7 +15,7 @@ Bachelor of Economics (first-class honor) graduated in 2014 from University of I
 
 </div>
 
-[LinkedIn](https://www.linkedin.com/in/ravigaribaldi/) | [Resume](/resume.pdf)
+[LinkedIn](https://www.linkedin.com/in/ravigaribaldi/) | [Resume](assets/resume.pdf)
 
 
 ---
