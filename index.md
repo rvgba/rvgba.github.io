@@ -2,7 +2,6 @@
 layout: default
 ---
 # Ravi Garibaldi  
-## About Me  
 <div style="display: flex; gap: 20px; align-items: center; margin: 20px 0;">
 
 <img src="/assets/profile.jpg" alt="Ravi Garibaldi" style="width: 200px; border-radius: 8px;">   
@@ -22,18 +21,16 @@ Bachelor of Economics (first-class honor) graduated in 2014 from University of I
 ---
 
 ## Skills  
-
-  - Business	: Project management, stakeholder engagement, process improvement, operational strategy.
-  - Technical	: mySQL, Looker Studio, Tableau, JIRA, Salesforce, Lucidchart, inDesign, Photoshop, Illustrator. 
-  - Programming	: SQL, HTML, CSS, STATA.
-  - Languages	: Indonesian (Native), English (Fluent, TOEFL iBT: 102).  
+| Scope    | Skills  |
+| -------- | ------- |
+| Business  | Project management, stakeholder engagement, process improvement, operational strategy    |
+| Technical | mySQL, Looker Studio, Tableau, JIRA, Salesforce, Lucidchart, inDesign, Photoshop, Illustrator     |
+| Programming | SQL, HTML, CSS, STATA, eViews    |
+| Languages | Indonesian (Native), English (Fluent, TOEFL iBT: 102)    |
 
 ---
 
 ## Get in Touch  
-**I'm currently open to:**  
-- Collaboration opportunities in visual design and editorial projects. Let's create something amazing together!  
+**I'm currently open to:**  Collaboration opportunities in visual design and editorial projects. Let's create something amazing together!  
 
 📫 **Contact:** [ravi.garibaldi@gmail.com](mailto:ravi.garibaldi@gmail.com)
-
----
