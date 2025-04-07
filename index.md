@@ -29,7 +29,7 @@ Bachelor of Economics (first-class honor) graduated in 2014 from University of I
 | Business  | Project management, stakeholder engagement, process improvement, operational strategy          |
 | Technical | mySQL, Looker Studio, Tableau, JIRA, Salesforce, Lucidchart, inDesign, Photoshop, Illustrator  |
 | Programming | SQL, HTML, CSS, STATA, eViews                                                                |
-| Languages | Indonesian `Native`, English `Fluent, TOEFL iBT: 102`                                          |
+| Languages | Indonesian (`Native`), English (`Fluent, TOEFL iBT: 102`)                                      |
 
 </br>
 
