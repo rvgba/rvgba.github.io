@@ -1,8 +1,7 @@
 ---
 layout: default
-Ravi Garibaldi Akbar
 ---
-
+# Ravi Garibaldi  
 ## About Me  
 <div style="display: flex; gap: 20px; align-items: center; margin: 20px 0;">
 
@@ -17,9 +16,7 @@ Bachelor of Economics (first-class honor) graduated in 2014 from University of I
 
 </div>
 
-[LinkedIn Profile](https://www.linkedin.com/in/ravigaribaldi/)
-
-[View Resume](/resume.pdf) 
+[LinkedIn](https://www.linkedin.com/in/ravigaribaldi/) | [Resume](/resume.pdf)
 
 
 ---
