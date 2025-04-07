@@ -10,7 +10,7 @@ layout: default
 
 ## About Me  
 <div style="display: flex; gap: 20px; align-items: center; margin: 20px 0;">
-  <img src="/assets/profile.jpg" alt="Ravi Garibaldi" style="width: 200px; border-radius: 8px;">
+  <img src="/assets/profile.jpeg" alt="Ravi Garibaldi" style="width: 200px; border-radius: 8px;">
   <div>
     A passionate developer based in Indonesia with 3 years of experience in web development and digital storytelling. I specialize in creating user-friendly interfaces and meaningful digital experiences.  
     [View Resume](/resume.pdf) *(opens in browser)*
@@ -44,7 +44,7 @@ layout: default
 **I'm currently open to:**  
 Collaboration opportunities in web development projects and technical writing gigs. Let's create something amazing together!  
 
-📫 **Contact:** [your.email@example.com](mailto:your.email@example.com)
+📫 **Contact:** [ravi.garibaldi@gmail.com](mailto:ravi.garibaldi@gmail.com)
 
 ---
 
