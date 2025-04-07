@@ -1,1 +1,1 @@
-s
+Simple code of my personal website
