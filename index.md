@@ -1,5 +1,6 @@
 ---
 layout: default
+Ravi Garibaldi Akbar
 ---
 
 ## About Me  
@@ -10,14 +11,15 @@ layout: default
   <div>
 
 
-Bachelor of Economics (first-class honor) graduated in 2014 from University of Indonesia with 8 years of experience as digital technology PMO in a financial & on-demand service industry, seeking ways to bring social impact to MSME(s) in Indonesia through digital and technology inclusion. I also have passion in art & design and did paid works in editorial designs during my years in university. I specialize in creating user-friendly visual and meaningful visual experiences. </br>
-[LinkedIn Profile](https://www.linkedin.com/in/ravigaribaldi/) </br>
-
-[View Resume](/resume.pdf) 
+Bachelor of Economics (first-class honor) graduated in 2014 from University of Indonesia with 8 years of experience as digital technology PMO in a financial & on-demand service industry, seeking ways to bring social impact to MSME(s) in Indonesia through digital and technology inclusion. I also have passion in art & design and did paid works in editorial designs during my years in university. I specialize in creating user-friendly visual and meaningful visual experiences.
 
   </div>
 
 </div>
+
+[LinkedIn Profile](https://www.linkedin.com/in/ravigaribaldi/)
+
+[View Resume](/resume.pdf) 
 
 
 ---
