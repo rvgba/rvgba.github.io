@@ -17,31 +17,21 @@ Bachelor of Economics (first-class honor) graduated in 2014 from University of I
 
 [LinkedIn](https://www.linkedin.com/in/ravigaribaldi/) | [Resume](assets/resume.pdf)
 
+</br>
 
 ---
 
 ## Skills  
 
 
-| Scope    | Skills  |
-|:---------|:--------|
-| Business  | Project management, stakeholder engagement, process improvement, operational strategy    |
-| Technical | mySQL, Looker Studio, Tableau, JIRA, Salesforce, Lucidchart, inDesign, Photoshop, Illustrator     |
-| Programming | SQL, HTML, CSS, STATA, eViews    |
-| Languages | Indonesian `Native`, English `Fluent, TOEFL iBT: 102`    |
+| Scope    | Skills                                                                                          |
+|:---------|:------------------------------------------------------------------------------------------------|
+| Business  | Project management, stakeholder engagement, process improvement, operational strategy          |
+| Technical | mySQL, Looker Studio, Tableau, JIRA, Salesforce, Lucidchart, inDesign, Photoshop, Illustrator  |
+| Programming | SQL, HTML, CSS, STATA, eViews                                                                |
+| Languages | Indonesian `Native`, English `Fluent, TOEFL iBT: 102`                                          |
 
-
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-
-
-
+</br>
 
 ---
 
