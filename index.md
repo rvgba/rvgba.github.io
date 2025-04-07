@@ -3,10 +3,22 @@ layout: default
 ---
 
 ## About Me  
+<div style="display: flex; gap: 20px; align-items: center; margin: 20px 0;">
+
 <img src="/assets/profile.jpg" alt="Ravi Garibaldi" style="width: 200px; border-radius: 8px;">   
-Bachelor of Economics (first-class honor) graduated in 2014 from University of Indonesia with 8 years of experience as digital technology PMO in a financial & on-demand service industry, seeking ways to bring social impact to MSME(s) in Indonesia through digital and technology inclusion. I also have passion in art & design and did paid works in editorial designs during my years in university. I specialize in creating user-friendly visual and meaningful visual experiences.
-[LinkedIn Profile](https://www.linkedin.com/in/ravigaribaldi/)
-[View Resume](/resume.pdf)
+
+  <div>
+
+
+Bachelor of Economics (first-class honor) graduated in 2014 from University of Indonesia with 8 years of experience as digital technology PMO in a financial & on-demand service industry, seeking ways to bring social impact to MSME(s) in Indonesia through digital and technology inclusion. I also have passion in art & design and did paid works in editorial designs during my years in university. I specialize in creating user-friendly visual and meaningful visual experiences./
+[LinkedIn Profile](https://www.linkedin.com/in/ravigaribaldi/)/
+
+[View Resume](/resume.pdf)/
+
+  </div>
+
+</div>
+
 
 ---
 
