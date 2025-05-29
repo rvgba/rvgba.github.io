@@ -16,7 +16,7 @@ I also have passion in art & design and did paid works in editorial designs duri
 
 </div>
 
-[LinkedIn](https://www.linkedin.com/in/ravigaribaldi/) | [Resume](https://rvgbar.wordpress.com/wp-content/uploads/2025/05/resume-may25.pdf)
+[LinkedIn](https://www.linkedin.com/in/ravigaribaldi/) | [Resume](https://rvgbar.wordpress.com/wp-content/uploads/2025/05/resume-may25.pdf/)
 
 <br />
 
@@ -26,7 +26,7 @@ I also have passion in art & design and did paid works in editorial designs duri
 
 
 | Scope    | Skills                                                                                          |
-|:---------|:------------------------------------------------------------------------------------------------|
+|---------|------------------------------------------------------------------------------------------------|
 | Business  | Project management, stakeholder engagement, process improvement, operational strategy          |
 | Technical | mySQL, Looker Studio, Tableau, JIRA, Salesforce, Lucidchart, Addobe (inDesign, Photoshop, Illustrator)  |
 | Programming | SQL, HTML, CSS, STATA, eViews                                                                |
@@ -38,4 +38,4 @@ I also have passion in art & design and did paid works in editorial designs duri
 ## Get in Touch  
 I'm currently open to collaboration opportunities in visual design and editorial projects. Let's create something amazing together!  
 
-📫 **Contact:** [ravi.akbar108 [at] proton.me](mailto:ravi.akbar108@proton.me)
+📫 **Contact:** [ravigaribaldi [at] gmail.com](mailto:ravigaribaldi@gmail.com)
