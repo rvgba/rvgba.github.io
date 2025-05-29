@@ -8,7 +8,7 @@ layout: default
 
   <div>
 
-My name is Ravi. I am an Economics graduate from FEB University of Indonesia with +8 years of experiences working as digital technology Project Management Officer in fintech & on-demand service industry player in Indonesia, seeking ways to bring social impact to MSME(s) in Indonesia through digital and technology inclusion.
+My name is Ravi. I am an Economics graduate from FEB University of Indonesia with +8 years of experiences working as digital technology Project Management Officer in fintech & on-demand service industry player in Indonesia, seeking ways to bring social impact to MSME(s) in Indonesia through digital and technology inclusion.<br />
 
 I also have passion in art & design and did paid works in editorial designs during my years in university. I specialize in creating user-friendly visual and meaningful visual experiences.
 
