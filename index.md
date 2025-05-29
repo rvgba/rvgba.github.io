@@ -16,7 +16,7 @@ I also have passion in art & design and did paid works in editorial designs duri
 
 </div>
 
-[LinkedIn](https://www.linkedin.com/in/ravigaribaldi/) | [Resume](https://rvgbar.wordpress.com/wp-content/uploads/2025/05/resume-may-2025.pdf)
+[LinkedIn](https://www.linkedin.com/in/ravigaribaldi/) | [Resume](https://rvgbar.wordpress.com/wp-content/uploads/2025/05/resume-may25.pdf)
 
 <br />
 
@@ -30,7 +30,7 @@ I also have passion in art & design and did paid works in editorial designs duri
 | Business  | Project management, stakeholder engagement, process improvement, operational strategy          |
 | Technical | mySQL, Looker Studio, Tableau, JIRA, Salesforce, Lucidchart, Addobe (inDesign, Photoshop, Illustrator)  |
 | Programming | SQL, HTML, CSS, STATA, eViews                                                                |
-| Languages | Indonesian (Native), English (Advance, TOEFL iBT: 102)                                      |
+| Languages | Indonesian (Native), English (Advance, TOEFL iBT 102)                                      |
 <br />
 
 ---
