@@ -25,12 +25,13 @@ I also have passion in art & design and did paid works in editorial designs duri
 ## Skills  
 
 
-| Scope    | Skills                                                                                          |
-|---------|------------------------------------------------------------------------------------------------|
-| Business  | Project management, stakeholder engagement, process improvement, operational strategy          |
+| Scope    | Skills                                                                                                   |
+|---------|-----------------------------------------------------------------------------------------------------------|
+| Business  | Project management, stakeholder engagement, process improvement, operational strategy                   |
 | Technical | mySQL, Looker Studio, Tableau, JIRA, Salesforce, Lucidchart, Addobe (inDesign, Photoshop, Illustrator)  |
-| Programming | SQL, HTML, CSS, STATA, eViews                                                                |
-| Languages | Indonesian (Native), English (Advance, TOEFL iBT 102)                                      |
+| Programming | SQL, HTML, CSS, STATA, eViews                                                                         |
+| Languages | Indonesian `(Native)`, English `(Advanced, TOEFL iBT: 102)`                                             |
+
 <br />
 
 ---
