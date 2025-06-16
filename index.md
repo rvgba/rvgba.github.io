@@ -8,7 +8,7 @@ layout: default
 
   <div>
 
-My name is Ravi. I am an Economics graduate from FEB University of Indonesia with +8 years of experiences working as digital technology Project Management Officer in fintech & on-demand service industry player in Indonesia, seeking ways to bring social impact to MSME(s) in Indonesia through digital and technology inclusion.<br />
+    I am Ravi, an Economics graduate from FEB University of Indonesia with +8 years of experiences working as digital technology Project Management Officer in fintech & on-demand service industry player in Indonesia, seeking ways to bring social impact to MSME(s) in Indonesia through digital and technology inclusion.<br />
 
 I also have passion in art & design and did paid works in editorial designs during my years in university. I specialize in creating user-friendly visual and meaningful visual experiences.
 
@@ -16,7 +16,7 @@ I also have passion in art & design and did paid works in editorial designs duri
 
 </div>
 
-[LinkedIn](https://www.linkedin.com/in/ravigaribaldi/) | [Resume](https://rvgbar.wordpress.com/wp-content/uploads/2025/05/resume-may25.pdf/)
+[LinkedIn](https://www.linkedin.com/in/ravigaribaldi/) | [Resume](https://drive.google.com/file/d/1RkRU06OXy9MuO9l_ez1HiIe8hM2vtdB0/view?usp=drive_link)
 
 <br />
 
@@ -39,4 +39,4 @@ I also have passion in art & design and did paid works in editorial designs duri
 ## Get in Touch  
 I'm currently open to collaboration opportunities in visual design and editorial projects. Let's create something amazing together!  
 
-📫 **Contact:** [ravigaribaldi [at] gmail.com](mailto:ravigaribaldi@gmail.com)
+📫 **Contact:** [ravi.garibaldi [at] gmail.com](mailto:ravi.garibaldi@gmail.com)
