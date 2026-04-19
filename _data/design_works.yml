@@ -1,0 +1,35 @@
+# Design Works data file
+# Add your projects here. Images go in /assets/images/design/
+# Leave image blank to show a placeholder
+
+- title: "DBS Foundation & UKM Center Publication"
+  type: "Editorial Design"
+  year: "2018"
+  description: "Cover and layout design for 'Profit untuk Misi Sosial' — a publication exploring social enterprise and MSME development in Indonesia."
+  image: ""
+  link: "https://www.dbs.id/id/sme-id/buku-profit-untuk-misi-sosial"
+  tags: ["Editorial", "Print", "Layout"]
+
+- title: "Indonesia Economic Outlook"
+  type: "Event Branding"
+  year: "2013"
+  description: "Lead designer for nationwide economics competition, discussion, and seminar held annually by Kanopi FEB UI."
+  image: ""
+  link: ""
+  tags: ["Branding", "Print", "Event"]
+
+- title: "UI Guide Magazine"
+  type: "Magazine Design"
+  year: "2012"
+  description: "Creative designer for an annual magazine by BoE FEB UI — helping freshmen navigate university life through visual storytelling."
+  image: ""
+  link: ""
+  tags: ["Magazine", "Editorial", "Print"]
+
+- title: "Web & Product Mockups"
+  type: "UI/UX Design"
+  year: "2014–2020"
+  description: "Freelance web designs and product mockups for various clients across Indonesia — combining clean UX thinking with editorial aesthetics."
+  image: ""
+  link: ""
+  tags: ["UI/UX", "Web", "Mockup"]

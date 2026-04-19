@@ -1,0 +1,46 @@
+---
+layout: default
+title: Blog
+description: Thoughts on project management, design, tech, and life in Jakarta.
+permalink: /blog/
+---
+
+<div class="page-hero">
+  <div class="container">
+    <p class="eyebrow fade-up">Writing</p>
+    <h1 class="page-hero-title fade-up delay-1">Blog</h1>
+    <p class="page-hero-desc fade-up delay-2">
+      Reflections on product management, visual design, the Indonesian tech scene,
+      and whatever else is on my mind.
+    </p>
+  </div>
+</div>
+
+<div class="blog-page">
+  <div class="container">
+
+    {% if site.posts.size > 0 %}
+      <div class="blog-grid">
+        {% for post in site.posts %}
+        <a class="blog-card fade-up" href="{{ post.url | relative_url }}">
+          <div class="card-meta">
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+            {% if post.category %}<span class="tag">{{ post.category }}</span>{% endif %}
+            {% if post.reading_time %}<span>{{ post.reading_time }} min read</span>{% endif %}
+          </div>
+          <h2 class="card-title">{{ post.title }}</h2>
+          <p class="card-excerpt">{{ post.excerpt | strip_html | truncatewords: 32 }}</p>
+        </a>
+        {% endfor %}
+      </div>
+    {% else %}
+      <div class="blog-empty">
+        <p>No posts yet — the first one is on its way.</p>
+        <p style="font-size:.88rem; color: var(--text-3); margin-top:.75rem; font-family: var(--mono);">
+          Check back soon, or <a href="mailto:{{ site.author.email }}">reach out</a> if you have a topic suggestion.
+        </p>
+      </div>
+    {% endif %}
+
+  </div>
+</div>

@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<article class="post-layout">
+  <div class="container">
+
+    <a href="{{ '/blog/' | relative_url }}" class="post-back">Back to Blog</a>
+
+    <header class="post-header">
+      <div class="post-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}">
+          {{ page.date | date: "%B %-d, %Y" }}
+        </time>
+        {% if page.category %}
+          <span>·</span>
+          <span class="tag">{{ page.category }}</span>
+        {% endif %}
+        {% if page.reading_time %}
+          <span>·</span>
+          <span>{{ page.reading_time }} min read</span>
+        {% endif %}
+      </div>
+
+      <h1 class="post-title">{{ page.title }}</h1>
+
+      {% if page.excerpt %}
+        <p class="post-lead">{{ page.excerpt | strip_html | truncatewords: 40 }}</p>
+      {% endif %}
+    </header>
+
+    <div class="post-body">
+      {{ content }}
+    </div>
+
+    <div style="margin-top: 4rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+      <a href="{{ '/blog/' | relative_url }}" class="post-back">Back to Blog</a>
+    </div>
+
+  </div>
+</article>

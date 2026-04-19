@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }} — PMO & Visual Designer{% endif %}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="author" content="{{ site.author.name }}">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+
+  <!-- ── Navigation ── -->
+  <header class="site-header">
+    <div class="nav-inner">
+      <a href="{{ '/' | relative_url }}" class="nav-logo">Ravi<span>.</span></a>
+      <ul class="nav-links">
+        <li><a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>Home</a></li>
+        <li><a href="{{ '/blog/' | relative_url }}"{% if page.url contains '/blog' %} class="active"{% endif %}>Blog</a></li>
+        <li><a href="{{ '/about/' | relative_url }}"{% if page.url contains '/about' %} class="active"{% endif %}>About</a></li>
+        <li><a href="{{ '/design/' | relative_url }}"{% if page.url contains '/design' %} class="active"{% endif %}>Design Works</a></li>
+      </ul>
+      <button class="nav-burger" id="burger" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <nav class="nav-mobile" id="nav-mob">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/blog/' | relative_url }}">Blog</a>
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="{{ '/design/' | relative_url }}">Design Works</a>
+    </nav>
+  </header>
+
+  <!-- ── Content ── -->
+  <main class="page-main">
+    {{ content }}
+  </main>
+
+  <!-- ── Footer ── -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="footer-copy">
+        © {{ 'now' | date: '%Y' }} {{ site.author.name }}.
+        Built with <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a>
+        &amp; hosted on <a href="https://pages.github.com" target="_blank" rel="noopener">GitHub Pages</a>.
+      </p>
+      <div class="footer-links">
+        <a href="{{ site.author.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="{{ site.resume_url }}" target="_blank" rel="noopener">Resume</a>
+        <a href="mailto:{{ site.author.email }}">Email</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // Mobile nav toggle
+    const burger = document.getElementById('burger');
+    const mob    = document.getElementById('nav-mob');
+    burger.addEventListener('click', () => mob.classList.toggle('open'));
+
+    // Close mobile nav on link click
+    mob.querySelectorAll('a').forEach(a =>
+      a.addEventListener('click', () => mob.classList.remove('open'))
+    );
+  </script>
+</body>
+</html>
