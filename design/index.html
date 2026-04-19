@@ -187,3 +187,191 @@ permalink: /design/
 
   </div>
 </div>
+layout: default
+title: Design Works
+description: Editorial design, illustration, and visual design work by Ravi Garibaldi Akbar.
+permalink: /design/
+---
+
+<div class="page-hero">
+  <div class="container">
+    <p class="eyebrow fade-up">Creative Work</p>
+    <h1 class="page-hero-title fade-up delay-1">Design Works</h1>
+    <p class="page-hero-desc fade-up delay-2">
+      Selected editorial, visual, and illustration projects — spanning
+      print publications, event branding, and digital product design.
+    </p>
+  </div>
+</div>
+
+<div style="padding: 4rem 0;">
+  <div class="container">
+
+    <!-- About Design Practice -->
+    <div style="
+      background: var(--accent-bg);
+      border: 1px solid rgba(181,69,27,.15);
+      border-radius: var(--r-lg);
+      padding: 1.75rem 2rem;
+      margin-bottom: 3rem;
+      display: flex; align-items: flex-start; gap: 1.25rem;
+    " class="fade-up">
+      <span style="font-size:1.75rem; flex-shrink:0;">🎨</span>
+      <div>
+        <p style="font-weight:600; color:var(--text); margin-bottom:.35rem;">
+          About My Design Practice
+        </p>
+        <p style="font-size:.92rem; color:var(--text-2); line-height:1.7;">
+          I've been designing since my university years — creating editorial layouts,
+          event branding, and digital mockups. My work blends a love for Indonesian
+          cultural aesthetics with clean, purposeful visual communication. Available
+          for freelance editorial and visual design projects.
+          <a href="mailto:ravi.garibaldi@gmail.com" style="color:var(--accent);">Let's talk →</a>
+        </p>
+      </div>
+    </div>
+
+    <!-- Design Grid -->
+    <div class="design-grid">
+      {% for work in site.data.design_works %}
+      <div class="design-card fade-up">
+        <div class="design-thumb">
+          {% if work.image and work.image != "" %}
+            <img src="{{ work.image | relative_url }}" alt="{{ work.title }}">
+          {% else %}
+            <div class="design-placeholder">
+              🖼️
+              <span>{{ work.type }}</span>
+            </div>
+          {% endif %}
+        </div>
+        <div class="design-body">
+          <p class="design-type">{{ work.type }} · {{ work.year }}</p>
+          <h3 class="design-title">{{ work.title }}</h3>
+          <p class="design-desc">{{ work.description }}</p>
+          {% if work.tags %}
+          <div class="design-tags">
+            {% for t in work.tags %}
+            <span class="design-tag">{{ t }}</span>
+            {% endfor %}
+          </div>
+          {% endif %}
+          {% if work.link and work.link != "" %}
+          <a href="{{ work.link }}" target="_blank" rel="noopener"
+             style="display:inline-flex; align-items:center; gap:.35rem; font-size:.82rem; font-weight:500; color:var(--accent); margin-top:.85rem;">
+            View Project ↗
+          </a>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+    <!-- Add Work CTA -->
+    <div style="
+      margin-top: 3rem; padding: 2rem;
+      border: 1.5px dashed var(--border-2); border-radius: var(--r-lg);
+      text-align: center; color: var(--text-3);
+    " class="fade-up">
+      <p style="font-family:var(--mono); font-size:.75rem; letter-spacing:.1em; text-transform:uppercase; margin-bottom:.5rem;">
+        More coming soon
+      </p>
+      
+    </div>
+
+  </div>
+</div>
+layout: default
+title: Design Works
+description: Editorial design, illustration, and visual design work by Ravi Garibaldi Akbar.
+permalink: /design/
+---
+
+<div class="page-hero">
+  <div class="container">
+    <p class="eyebrow fade-up">Creative Work</p>
+    <h1 class="page-hero-title fade-up delay-1">Design Works</h1>
+    <p class="page-hero-desc fade-up delay-2">
+      Selected editorial, visual, and illustration projects — spanning
+      print publications, event branding, and digital product design.
+    </p>
+  </div>
+</div>
+
+<div style="padding: 4rem 0;">
+  <div class="container">
+
+    <!-- About Design Practice -->
+    <div style="
+      background: var(--accent-bg);
+      border: 1px solid rgba(181,69,27,.15);
+      border-radius: var(--r-lg);
+      padding: 1.75rem 2rem;
+      margin-bottom: 3rem;
+      display: flex; align-items: flex-start; gap: 1.25rem;
+    " class="fade-up">
+      <span style="font-size:1.75rem; flex-shrink:0;">🎨</span>
+      <div>
+        <p style="font-weight:600; color:var(--text); margin-bottom:.35rem;">
+          About My Design Practice
+        </p>
+        <p style="font-size:.92rem; color:var(--text-2); line-height:1.7;">
+          I've been designing since my university years — creating editorial layouts,
+          event branding, and digital mockups. My work blends a love for Indonesian
+          cultural aesthetics with clean, purposeful visual communication. Available
+          for freelance editorial and visual design projects.
+          <a href="mailto:ravi.garibaldi@gmail.com" style="color:var(--accent);">Let's talk →</a>
+        </p>
+      </div>
+    </div>
+
+    <!-- Design Grid -->
+    <div class="design-grid">
+      {% for work in site.data.design_works %}
+      <div class="design-card fade-up">
+        <div class="design-thumb">
+          {% if work.image and work.image != "" %}
+            <img src="{{ work.image | relative_url }}" alt="{{ work.title }}">
+          {% else %}
+            <div class="design-placeholder">
+              🖼️
+              <span>{{ work.type }}</span>
+            </div>
+          {% endif %}
+        </div>
+        <div class="design-body">
+          <p class="design-type">{{ work.type }} · {{ work.year }}</p>
+          <h3 class="design-title">{{ work.title }}</h3>
+          <p class="design-desc">{{ work.description }}</p>
+          {% if work.tags %}
+          <div class="design-tags">
+            {% for t in work.tags %}
+            <span class="design-tag">{{ t }}</span>
+            {% endfor %}
+          </div>
+          {% endif %}
+          {% if work.link and work.link != "" %}
+          <a href="{{ work.link }}" target="_blank" rel="noopener"
+             style="display:inline-flex; align-items:center; gap:.35rem; font-size:.82rem; font-weight:500; color:var(--accent); margin-top:.85rem;">
+            View Project ↗
+          </a>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+    <!-- Add Work CTA -->
+    <div style="
+      margin-top: 3rem; padding: 2rem;
+      border: 1.5px dashed var(--border-2); border-radius: var(--r-lg);
+      text-align: center; color: var(--text-3);
+    " class="fade-up">
+      <p style="font-family:var(--mono); font-size:.75rem; letter-spacing:.1em; text-transform:uppercase; margin-bottom:.5rem;">
+        More coming soon
+      </p>
+      
+    </div>
+
+  </div>
+</div>
