@@ -1,35 +1,83 @@
-# Design Works data file
-# Add your projects here. Images go in /assets/images/design/
-# Leave image blank to show a placeholder
+# Design Works — Ravi Garibaldi Akbar
+# Sourced from 2015 Portfolio (RVGBA)
+# Images are in /assets/images/design/
 
-- title: "DBS Foundation & UKM Center Publication"
-  type: "Editorial Design"
-  year: "2018"
-  description: "Cover and layout design for 'Profit untuk Misi Sosial' — a publication exploring social enterprise and MSME development in Indonesia."
-  image: ""
-  link: "https://www.dbs.id/id/sme-id/buku-profit-untuk-misi-sosial"
-  tags: ["Editorial", "Print", "Layout"]
+- title: "Stark — Character Illustration"
+  type: "Digital Illustration"
+  year: "2014"
+  description: "Original character illustration inspired by Game of Thrones' House of Stark. Created using Adobe Photoshop and a Wacom tablet — vector-style digital painting with a limited color palette."
+  image: "/assets/images/design/illustration_stark.jpg"
+  link: ""
+  tags: ["Illustration", "Digital Painting", "Photoshop"]
 
-- title: "Indonesia Economic Outlook"
+- title: "Character Illustration Series"
+  type: "Digital Illustration"
+  year: "2013–2014"
+  description: "A series of character illustrations: 'Men of War' for a Kiehl's mockup campaign (L'Oreal Brandstorm), 'Yellow Jacket' for the UI Economics Department booklet cover, and personal figure illustration studies."
+  image: "/assets/images/design/illustration_characters.jpg"
+  link: ""
+  tags: ["Illustration", "Editorial", "Photoshop", "Wacom"]
+
+- title: "Agenda UI 2013 — Marketing Collaterals"
+  type: "Event Branding & Print"
+  year: "2013"
+  description: "Co-Promotion Manager for Agenda UI 2013, the official student agenda of Universitas Indonesia. Designed the full marketing suite: product lookbook, digital banners, poster, and flyer."
+  image: "/assets/images/design/agenda_ui_lookbook.jpg"
+  link: ""
+  tags: ["Branding", "Print", "Editorial", "InDesign"]
+
+- title: "Agenda UI 2013 — Digital & Print Ads"
+  type: "Print & Digital Design"
+  year: "2013"
+  description: "Full promotional toolkit: digital banner ads for social media, event flyers with pricing info, and print posters for campus distribution. Coordinated visual identity across all touchpoints."
+  image: "/assets/images/design/agenda_ui_banners.jpg"
+  link: ""
+  tags: ["Digital Ads", "Flyer", "Poster", "Print"]
+
+- title: "IEO 2013 — Indonesia Economic Outlook Branding"
   type: "Event Branding"
   year: "2013"
-  description: "Lead designer for nationwide economics competition, discussion, and seminar held annually by Kanopi FEB UI."
-  image: ""
+  description: "Branding Manager for Indonesia Economic Outlook 2013 — a nationwide economics seminar, competition, and discussion held at FEUI. Responsible for overall brand image and all marketing materials."
+  image: "/assets/images/design/ieo_banner.jpg"
   link: ""
-  tags: ["Branding", "Print", "Event"]
+  tags: ["Branding", "Event", "Print", "Identity"]
 
-- title: "UI Guide Magazine"
+- title: "IEO 2013 — Poster, Flyer & Digital Banner"
+  type: "Print & Digital Design"
+  year: "2013"
+  description: "Full promotional suite: call-for-essay poster, event flyer, digital banners, and seminar poster. Bold red-and-white brand identity reflecting Indonesian academic prestige."
+  image: "/assets/images/design/ieo_poster_flyer.jpg"
+  link: ""
+  tags: ["Poster", "Flyer", "Digital Banner", "Typography"]
+
+- title: "Kanopi FEUI 2013 — Warta IE Magazine"
+  type: "Magazine Design"
+  year: "2013"
+  description: "Co-Manager of the Information & Publishing Bureau at Kanopi FEUI. Designed layout and cover of Warta IE — the organization's economics magazine at Universitas Indonesia."
+  image: "/assets/images/design/kanopi_magazine.jpg"
+  link: ""
+  tags: ["Magazine", "Editorial Layout", "InDesign", "Typography"]
+
+- title: "Kanopi FEUI 2013 — Posters & Recruitment"
+  type: "Print Design"
+  year: "2013"
+  description: "Open recruitment posters, monthly discussion event banners, and promotional materials for Kanopi FEUI — the economics student organization at Universitas Indonesia."
+  image: "/assets/images/design/kanopi_poster.jpg"
+  link: ""
+  tags: ["Poster", "Print", "Branding", "Layout"]
+
+- title: "UI Guide 2012 — Art Director"
   type: "Magazine Design"
   year: "2012"
-  description: "Creative designer for an annual magazine by BoE FEB UI — helping freshmen navigate university life through visual storytelling."
-  image: ""
+  description: "Art Director for UI Guide 2012 — the annual magazine by Badan Otonom Economica FEB UI for incoming freshmen. Responsible for the complete layout, visual identity, and final production of the magazine."
+  image: "/assets/images/design/uiguide.jpg"
   link: ""
-  tags: ["Magazine", "Editorial", "Print"]
+  tags: ["Magazine", "Art Direction", "Editorial", "InDesign"]
 
-- title: "Web & Product Mockups"
-  type: "UI/UX Design"
-  year: "2014–2020"
-  description: "Freelance web designs and product mockups for various clients across Indonesia — combining clean UX thinking with editorial aesthetics."
+- title: "DBS Foundation — 'Profit untuk Misi Sosial'"
+  type: "Publication Design"
+  year: "2018"
+  description: "Cover and layout design for 'Profit untuk Misi Sosial' — a publication by DBS Foundation & UKM Center FEB UI exploring social enterprise and MSME development in Indonesia."
   image: ""
-  link: ""
-  tags: ["UI/UX", "Web", "Mockup"]
+  link: "https://www.dbs.id/id/sme-id/buku-profit-untuk-misi-sosial"
+  tags: ["Editorial", "Print", "Publication"]
