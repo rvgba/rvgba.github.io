@@ -1,1 +1,1 @@
-Simple code of my personal website
+Ravi Garibaldi Akbar's personal website
